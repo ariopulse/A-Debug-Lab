@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\Cayan02\Desktop\144\ARO\Modules\dc_power_module_v1\dc_power_module_v1.PcbDoc
+Date         : 12/9/2021
+Time         : 9:31:35 AM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 3300milsx2890mils
+    Components on board, 37
+count : 2
